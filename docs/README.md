@@ -1,7 +1,7 @@
 [![Valor Bot](images/logo.png)](https://github.com/DineshValor/valor)
 <br>
 <br>
-[![Valor Bot Status](https://img.shields.io/badge/Bot_Status-Maintained-Green?logo=statuspal&logoColor=green)](https://github.com/DineshValor/valor)
+[![Valor Bot Status](https://img.shields.io/badge/Bot_Status-UnMaintained-yellow?logo=statuspal&logoColor=red)](https://github.com/DineshValor/valor)
 [![DineshValor](https://img.shields.io/badge/Maintainer-DineshValor-blue?logo=powershell)](https://github.com/DineshValor)
 
 #### This is not an officially supported WhatsApp product
