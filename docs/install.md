@@ -60,16 +60,16 @@ Termux is a local hardware based terminal, that's mean it use device hardware to
 1. Download and install [Termux app](https://github.com/termux/termux-app/releases/download/v0.118.0/termux-app_v0.118.0+github-debug_universal.apk)
 2. Open Termux app and type given below commands one by one in terminal
 ```
-$ pkg upgrade -y
-$ pkg install git -y
-$ pkg install yarn -y
-$ pkg install nodejs -y
-$ pkg install ffmpeg -y
-$ pkg install imagemagick -y
-$ git clone https://github.com/DineshValor/valor
-$ cd valor
-$ yarn
-$ bash start
+pkg upgrade -y
+pkg install git -y
+pkg install yarn -y
+pkg install nodejs -y
+pkg install ffmpeg -y
+pkg install imagemagick -y
+git clone https://github.com/DineshValor/valor
+cd valor
+yarn
+bash start
 ```
 3. Scan QR code via WhatsApp [skip if you already copied `session.data.json` file into repository]
 4. Hurray! Bot successfully installed and ready to use. Type `.menu` or `.help` in whatsapp chat to access bot menu
